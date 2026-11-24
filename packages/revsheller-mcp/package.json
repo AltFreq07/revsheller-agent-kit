@@ -1,0 +1,12 @@
+{
+  "name": "revsheller-mcp",
+  "version": "1.0.0",
+  "description": "stdio MCP bridge to revsheller, a hosted shell relay for CTFs, labs and authorized testing",
+  "bin": { "revsheller-mcp": "bin/revsheller-mcp.js" },
+  "files": ["bin", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["mcp", "model-context-protocol", "ctf", "reverse-shell", "pentesting-labs", "security"],
+  "homepage": "https://revsheller.com/guides/ai-agent-shell-mcp",
+  "license": "MIT",
+  "mcpName": "com.revsheller/revsheller"
+}

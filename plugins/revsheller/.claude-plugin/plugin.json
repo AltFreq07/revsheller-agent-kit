@@ -1,0 +1,11 @@
+{
+  "name": "revsheller",
+  "version": "1.0.0",
+  "description": "Hosted shell listener for CTFs and your own labs, plus public URLs for local dev servers, over MCP.",
+  "author": { "name": "revsheller", "url": "https://revsheller.com" },
+  "homepage": "https://revsheller.com/guides/ai-agent-shell-mcp",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://revsheller.com/privacy",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": ["ctf", "lab", "shell", "tunnel", "localhost", "mcp"]
+}

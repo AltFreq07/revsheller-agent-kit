@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "revsheller": {
+      "type": "http",
+      "url": "https://revsheller.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${RSH_API_KEY}"
+      }
+    }
+  }
+}
