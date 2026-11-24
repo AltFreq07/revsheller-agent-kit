@@ -15,7 +15,7 @@ Sign in at [revsheller.com](https://revsheller.com) and create a key on the [acc
 The plugin adds the MCP server and a skill that tells Claude when to use it and how to recover when a command hangs.
 
 ```
-/plugin marketplace add {{REPO}}
+/plugin marketplace add AltFreq07/revsheller-agent-kit
 /plugin install revsheller@revsheller
 ```
 
