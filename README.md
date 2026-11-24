@@ -1,5 +1,7 @@
 # revsheller agent kit
 
+[![revsheller MCP connector](https://glama.ai/mcp/connectors/com.revsheller/revsheller/badges/score.svg)](https://glama.ai/mcp/connectors/com.revsheller/revsheller)
+
 Ways to plug [revsheller](https://revsheller.com) into an AI agent. revsheller is a hosted relay with two jobs. It gives you a shell listener on the public internet for CTF boxes and your own lab machines, so there's no VPS or port forwarding to set up, and it gives a local web server a public https URL.
 
 The server side is a remote MCP server at `https://revsheller.com/mcp`. Everything here is a different way of reaching it.
